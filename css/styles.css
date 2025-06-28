@@ -10999,9 +10999,8 @@ header.masthead .masthead-heading {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 @media (max-width: 768px) {
-@media (max-width: 768px) {
   .timeline-image {
-    display: none !important;
+    display: none !important; 
   }
 }
 
