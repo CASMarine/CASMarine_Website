@@ -1948,7 +1948,16 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+  
 }
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 80px; /* navbar yüksekliği kadar */
+  }
+}
+
+
 @media (max-width: 767.98px) {
   .table-responsive-md {
     overflow-x: auto;
